@@ -6,3 +6,4 @@ My best course was Git Real 1 & 2
 * Angular
 
 Git and Javascript
+Killing history using git rebase
