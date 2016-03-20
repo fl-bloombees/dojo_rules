@@ -5,3 +5,4 @@ My best course was Git Real 1 & 2
 * Javascript
 * Angular
 
+Git and Javascript
